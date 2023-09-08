@@ -2,7 +2,7 @@
 # Objective : Introductory R
 # Created by: Cory Shain
 # Modified by: Byung-Doh Oh
-# Modified on: 9/22/2022 (string concatenation and df subsetting)
+# Modified on: 9/7/2023 (vector operations)
 
 
 "
@@ -198,6 +198,10 @@ x * y
 
 # Take the logarithm of each element of x with the corresponding element of y as the base
 log(x, y)
+
+# Of course, the two vectors need to be of the same length
+y = rnorm(9)
+x + y
 
 # Ways of creating arrays
 # 1) More convenient: range operator (integer arrays)
