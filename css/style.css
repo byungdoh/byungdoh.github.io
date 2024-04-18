@@ -7581,13 +7581,13 @@ h1, h2, h3, h4, h5,
     font-size: 18px;
     font-weight: 500; }
     .hero-wrap .text .img {
-      width: 200px;
-      height: 200px;
+      width: 400px;
+      height: 400px;
       margin: 0 auto;
       -webkit-border-radius: 50%;
       -moz-border-radius: 50%;
       -ms-border-radius: 50%;
-      border-radius: 50%; }
+      border-radius: 0%; }
     .hero-wrap .text .subheading {
       font-size: 24px;
       color: #bfbfbf;
