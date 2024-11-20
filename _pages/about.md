@@ -7,7 +7,7 @@ subtitle: >
   <br/>
   <a href="mailto:oh.b@nyu.edu">oh.b@nyu.edu</a>
   <br/>
-  <a href="/assets/pdf/oh_cv.pdf">Curriculum Vitae</a>
+  <a href="/assets/pdf/oh_cv.pdf" target="_blank" style="font-weight: bold">Curriculum Vitae</a>
 
 profile:
   align: right
