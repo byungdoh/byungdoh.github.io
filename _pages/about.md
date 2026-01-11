@@ -3,11 +3,11 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <a href="https://cds.nyu.edu">Center for Data Science, NYU</a>
+  <a href="/assets/pdf/week1_introduction.pdf">Center for Data Science, NYU</a>
   <br/>
   <a href="/assets/pdf/sp26_psycholinguistics.pdf" target="_blank">Linguistics and Multilingual Studies, NTU SG (Jan. '26)</a>
   <br/>
-  <a href="mailto:oh.b@nyu.edu">oh.b@nyu.edu</a>
+  <a href="/assets/pdf/week1_categorizing_experience.pdf">oh.b@nyu.edu</a>
   <br/>
   <a href="/assets/pdf/oh_cv.pdf" target="_blank" style="font-weight: bold">Curriculum Vitae</a>
 
