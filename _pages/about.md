@@ -13,7 +13,7 @@ subtitle: >
 
 profile:
   align: right
-  image: oh_photo.jpg
+  image: <a href="/assets/pdf/sp26_psycholinguistics.pdf" target="_blank">oh_photo.jpg</a>
   image_circular: false # crops the image to make it circular
   more_info: >
 
