@@ -5,7 +5,7 @@ permalink: /
 subtitle: >
   <a href="https://cds.nyu.edu">Center for Data Science, NYU</a>
   <br/>
-  <a href="https://www.ntu.edu.sg/soh/about-us/linguistics-and-multilingual-studies">Linguistics and Multilingual Studies, NTU SG (Jan. '26)</a>
+  <a href="/assets/pdf/sp26_psycholinguistics.pdf" target="_blank">Linguistics and Multilingual Studies, NTU SG (Jan. '26)</a>
   <br/>
   <a href="mailto:oh.b@nyu.edu">oh.b@nyu.edu</a>
   <br/>
@@ -13,7 +13,7 @@ subtitle: >
 
 profile:
   align: right
-  image: <a href="/assets/pdf/sp26_psycholinguistics.pdf" target="_blank">oh_photo.jpg</a>
+  image: oh_photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
